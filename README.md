@@ -15,3 +15,21 @@ The aim is to uncover **trends, insights, and patterns** in customer behavior, s
 - **Power BI / Tableau**: Data visualization dashboards  
 
 ## 📂 Project Structure  
+
+## 🚀 Features  
+- Data cleaning & preprocessing  
+- Exploratory Data Analysis (EDA)  
+- SQL queries for key business questions  
+- Sales & customer trend analysis  
+- Interactive dashboards  
+
+## 📊 Sample Insights  
+- Most popular genres & artists  
+- Top revenue-generating customers  
+- Regional music sales patterns  
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+---
+
